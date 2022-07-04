@@ -11,7 +11,7 @@ ou não no curso de Medicina.
 - Redação
 
 As notas serão somadas e divididas por 5.
-Caso a média seja maior que 750.00 o candidato será 
+Caso a média seja maior ou igual a 750 o candidato será 
 aprovado no curso de Medicina,
 Caso não, irá sair um print de uma mensagem
 informando que o candidato não foi aprovado.
