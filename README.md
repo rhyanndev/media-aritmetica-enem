@@ -12,6 +12,6 @@ ou não no curso de Medicina.
 
 As notas serão somadas e divididas por 5.
 Caso a média seja maior ou igual a 750 o candidato será 
-aprovado no curso de Medicina,
-Caso não, irá sair um print de uma mensagem
-informando que o candidato não foi aprovado.
+aprovado,
+caso não, irá sair um print na tela de uma mensagem
+informando que o candidato não foi aprovado em Medicina.
